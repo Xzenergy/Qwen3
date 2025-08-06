@@ -1,0 +1,19 @@
+requirements.txt
+# This file lists the Python packages required for the project.
+
+# Use the following command to install the packages:
+# pip install -r requirements.txt
+
+flask>=2.0.0
+transformers>=4.35.2,<=4.45.0
+# common
+
+openai>=0.28.1,<=1.65.5
+packaging
+numpy
+tqdm
+datasets==2.14.6
+pyyaml
+scipy
+scikit-learn
+scikit-image
